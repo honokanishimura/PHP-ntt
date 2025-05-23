@@ -1,0 +1,86 @@
+{
+  "articles": [
+    {
+      "mt_entry_id": 1,
+      "title": "小規模施設/中小企業のニーズにフィット 海外向けSNS発信でインバウンド集客も「Nにおまかせ！」",
+      "contents": "<div class=\"case-study-detail-summary__overview\"><p>ホテルをはじめ観光業界にとっては、インバウンド需要は売上を大きく左右する重要な要素です。しかし、大手ホテルチェーンとは異なり、小規模なホテルは広告宣伝にかける費用や人材が不足しているのが現状です。そんな中、「Nにおまかせ！」のSNS運用サービスにより活路を見出したのが、函館にあるホテルニューオーテ様です。代表取締役社長の齋藤様は「地元資本の中小企業こそ、NTT東日本グループのノウハウが必要」と語ります。詳しくお話を伺いました。</p></div>",
+      "publish_date": "2024-05-31",
+      "url": "/columns/1",
+      "image_url": "/_nuxt/thumbnail.a6a9f25e.webp",
+      "issues": "1,2",
+      "services" : "1,2,3",
+      "vendors": "1,2",
+      "scales": "1",
+      "updated_at": "2024-05-31 12:34:56"
+    },
+    {
+      "mt_entry_id": 2,
+      "title": "創業準備にかける各社との煩雑な対応など、通信環境以外もすべて「Nにおまかせ！」することで、おおよそ500万円のコスト削減を実現！",
+      "contents": "<div class=\"case-study-detail-summary__overview\"><p><a href=\"/site/kaigyou_iten/\" class=\"text-link\">創業</a>にあたっては、さまざまな手続きと同時進行で、通信環境や設備の導入、業務支援ソフトの選択など膨大な準備を行わなくてはなりません。「Nにおまかせ！」では、独立・<a href=\"/site/kaigyou_iten/\" class=\"text-link\">起業・開業</a>に関する“あらゆる悩みごと”を解決につながるトータルサポートを行っています。</p><p></p><p>株式会社パブリは「出版社と図書館、読者を結ぶ」を企業理念とし、2023年12月8日に創立されました。回線の依頼から始まり、デバイスやソフト導入など一括で「Nにおまかせ！」の<a href=\"/site/kaigyou_iten/\" class=\"text-link\">創業</a>支援を利用した藤川社長にお話をうかがいました。</p><p><p class=\"CaseContents-detail__contents-note\">※本文中にあるリンクは一部NTT東日本のページへ遷移します。</p></p></div>",
+      "publish_date": "2024-01-25",
+      "url": "/columns/2",
+      "image_url": "/_nuxt/thumbnail.b0b9766f.webp",
+      "issues": "12",
+      "services" : "9",
+      "vendors": "10",
+      "scales": "5",
+      "updated_at": "2024-01-25 23:45:01"
+    }
+  ],
+  "issues": [
+    {
+      "id": 1,
+      "name": "通信環境"
+    },
+    {
+      "id": 2,
+      "name": "販路拡大"
+    },
+    {
+      "id": 12,
+      "name": "その他"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "電話"
+    },
+    {
+      "id": 1,
+      "name": "光回線/Wi-Fi"
+    },
+    {
+      "id": 9,
+      "name": "その他"
+    }
+  ],
+  "vendors": [
+    {
+      "id": 1,
+      "name": "情報通信業"
+    },
+    {
+      "id": 2,
+      "name": "製造業"
+    },
+    {
+      "id": 10,
+      "name": "その他"
+    }
+  ],
+  "scales": [
+    {
+      "id": 1,
+      "name": "1～4名"
+    },
+    {
+      "id": 2,
+      "name": "5～29名"
+    },
+    {
+      "id": 5,
+      "name": "300名～"
+    }
+  ]
+}
