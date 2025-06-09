@@ -16,9 +16,9 @@ It replicates the core logic of a real-world enterprise project developed for NT
 ---
 
 ## Screenshots
-![NTT Screenshot 1](./images/ntt1.png)
-![NTT Screenshot 2](./images/ntt2.png)
-![NTT Screenshot 3](./images/ntt3.png)
+![NTT Screenshot 1](./image/ntt1.png)
+![NTT Screenshot 2](./image/ntt2.png)
+![NTT Screenshot 3](./image/ntt3.png)
 
 | Filter UI (Production) | Localhost Implementation |
 
