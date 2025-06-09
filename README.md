@@ -16,10 +16,12 @@ It replicates the core logic of a real-world enterprise project developed for NT
 ---
 
 ## Screenshots
+![NTT Screenshot 1](./images/ntt1.png)
+![NTT Screenshot 2](./images/ntt2.png)
+![NTT Screenshot 3](./images/ntt3.png)
 
 | Filter UI (Production) | Localhost Implementation |
-|[search](https://github.com/user-attachments/assets/d40a5c2d-5258-4deb-8104-4c93af869a93)
-|[search1](https://github.com/user-attachments/assets/6431fab5-f344-4638-891f-942d69a55907)
+
 
 
 These screenshots show the actual category filter logic and how keyword-based search is combined with multiple checkbox filters.  
